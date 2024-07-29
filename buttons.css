@@ -1,0 +1,65 @@
+#btn2 {
+    background-color: rgba(220, 30, 220, 0.789);
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#btn2:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 12px 16px 0px rgba(191, 130, 245, 0.884);
+}
+
+
+#btn3 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#btn3:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 12px 16px 0px rgba(201, 199, 202, 0.6);
+}
+
+#btn4 {
+    background-color: rgb(189, 255, 8);
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#btn4:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 12px 16px 0px rgb(215, 250, 179);
+}
+
+#btn5 {
+    background-color: rgb(242, 255, 0);
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#btn5:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 12px 16px 0px rgb(255, 253, 158);
+}
+
+#btn6 {
+    background-color: rgb(36, 2, 255);
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#btn6:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 12px 16px 0px rgba(76, 67, 237, 0.884);
+}
